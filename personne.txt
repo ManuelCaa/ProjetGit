@@ -1,0 +1,44 @@
+<personnes>
+
+
+    <personne id="123" civ="homme">
+        <nom>Abid</nom>
+        <prenom>Jordan</prenom>
+
+        <mails>
+            <mail type="perso">jordanabid@gmail.com</mail>
+            <mail type="pro">j.abid@ajc-ingenierie.fr</mail>
+        </mails>
+
+        <tels>
+            <tel type="perso">0613245664</tel>
+        </tels>
+    </personne>
+
+
+    <personne id="1605" civ="homme">
+        <nom>Caba</nom>
+        <prenom>Manuel</prenom>
+
+        <mails>
+            <mail> type="perso">cab.manu@live.fr</mail>
+            <mail> type="pro">dupont.jean@hotmail.fr</mail>
+        </mails>
+        <!-- <tels></tels> -->
+        <tels />
+
+
+    </personne>
+
+
+
+    <personne id="95" civ="femme">
+        <nom>QAIBOU</nom>
+        <prenom>Hajar</prenom>
+
+        <tels>
+            <tel type="perso">0789876767</tel>
+        </tels>
+    </personne>
+
+</personnes>
